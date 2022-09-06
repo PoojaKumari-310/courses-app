@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cg.paymentservice.model.ResponsePurchase&apos; to &apos;ResponsePayment&apos;&#x0D;&#x0A;- Original project: &apos;PaymentService&apos;&#x0D;&#x0A;- Original element: &apos;com.cg.paymentservice.model.ResponsePurchase&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cg.paymentservice.model.ResponsePayment&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ResponsePurchase&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.cg.paymentservice.model{ResponsePurchase.java[ResponsePurchase" matchStrategy="1" name="ResponsePayment" qualified="false" references="true" similarDeclarations="false" stamp="1660819823352" textual="false" version="1.0"/>
+</session>
